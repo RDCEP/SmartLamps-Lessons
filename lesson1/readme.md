@@ -35,7 +35,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-
 ##### Step 3: Some definitions to get started
 
 * The instructions we give the computer are called COMMANDS. 
@@ -66,7 +65,7 @@ COMMAND, INTERPRET, EXECUTE and OUTPUT
 
 #### :: _What we type_ ::
 ```
-> print (" Hello World! ")
+>>> print (" Hello World! ")
 ```
 
 ***Try it out in the terminal ---->***
@@ -85,7 +84,7 @@ Now that you have learned how to make the computer type something, could you mak
         
 * Make the computer say Hello followed by your name & exclamation mark. Eg, if your name is Alice, the command will look like this:
 ```   
-print("Hello Alice!")
+>>> print("Hello Alice!")
 ```
 * Make the computer say **I really like programming!**
         
