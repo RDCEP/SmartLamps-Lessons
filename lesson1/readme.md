@@ -1,6 +1,6 @@
-#### Welcome to SmartLamps!!
+# Welcome to SmartLamps!!
 
-#### Let's start coding!
+## Let's start coding!
 
 ##### Step 1: Let's go to a "TERMINAL". 
 
@@ -21,7 +21,7 @@
 
 #### :: _What we type_ ::
 ```
-python3.6
+> python3.6
 ```
 and press the return/enter key!
         
@@ -29,14 +29,14 @@ and press the return/enter key!
 
 #### :: _What terminal outputs_ ::
 ```
-Python 3.6.5 (default, Mar 29 2018, 03:28:50)
+Python 3.6.5 (default, Aug 29 2018, 03:28:50)
 [GCC 5.4.0 20160609] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
 
-##### Step 3: Let's start programming!
+##### Step 3: Some definitions to get started
 
 * The instructions we give the computer are called COMMANDS. 
 
@@ -49,11 +49,11 @@ Type "help", "copyright", "credits" or "license" for more information.
 **We have learned 4 new words!!**
 COMMAND, INTERPRET, EXECUTE and OUTPUT
           
-##### Step 4: Testing our first command: "print" command        
+##### Step 4: Testing our first command: *print* command        
 
-* "print" command tells the computer to output something.
+* *print* command tells the computer to output something.
 
-* Let's get the computer to say *Hello World!*
+* Let's get the computer to say **Hello World!**
 
 * The correct way to enter a command is called a SYNTAX.
 
@@ -61,7 +61,7 @@ COMMAND, INTERPRET, EXECUTE and OUTPUT
 
 * The computer outputs everything inside the double-quotes " "
 
-* Here is the correct SYNTAX for using the "print" command
+* Here is the correct SYNTAX for using the *print* command
 
 
 #### :: _What we type_ ::
@@ -81,20 +81,19 @@ Hello World!
 
 ##### Step 5: Let's try it out!
 
-* Now that you have learned how to make the computer type something, could you make it type the following?
+Now that you have learned how to make the computer type something, could you make it type the following?
         
-    - Make the computer say Hello followed by your name & exclamation mark. Eg, if your name is Alice, the command will look like this:
+* Make the computer say Hello followed by your name & exclamation mark. Eg, if your name is Alice, the command will look like this:
 ```   
 print("Hello Alice!")
 ```
+* Make the computer say **I really like programming!**
         
-    - Make the computer say *I really like programming!*
-        
-    - Make the computer ask your name: *What is your name?*
+* Make the computer ask your name: **What is your name?**
 
-    - Make the computer say anything else you can think of!
+* Make the computer say anything else you can think of!
         
-##### Step 6: Complete assignmwnt here: (link)
+##### Step 6: Complete assignment here: (link)
         
         
         
