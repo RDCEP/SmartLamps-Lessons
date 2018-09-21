@@ -65,11 +65,43 @@ Let's try it out
 ```
 #### :: _What terminal outputs_ ::
 ```
->>> 2
+2
 ```
 Again, we get the value stored in the variable!
 
+#### :: _What we type_ ::
+```
+>>> type (x)
+```
+#### :: _What terminal outputs_ ::
+```
+<class 'int'>
+```
+Here we get the data type of the vale **2** which is an INTEGER type. 
 
+#### VARIABLE can store VALUE of any DATA TYPE
+Earlier we assigned an INTEGER data type to variable x. Now try assigning FLOAT and STRING values. Don't forget the qoutes " " for string values
 
+Every time you assign a new value using ASSIGNMENT statement, the VARIABLE forgets the old value!
 
+#### :: _What we type_ ::
+```
+>>> x = 3.14
+```
+#### :: _What terminal outputs_ ::
+```
+>>>
+```
+No output for assignment. Try using *print* & *type* commands to see the value & data type of VARIABLE **x**
+
+#### :: _What we type_ ::
+```
+>>> x = "Hello World!"
+```
+#### :: _What terminal outputs_ ::
+```
+>>>
+```
+
+No output for assignment. Try using *print* & *type* commands to see the value & data type of VARIABLE **x**
 
