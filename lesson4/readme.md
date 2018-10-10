@@ -66,6 +66,7 @@ Try adding more numbers, try out negative numbers, floats or really big numbers!
 ```
 2
 ```
+***
 #### 3. Multiplication
 Notice the __*__ symbol for multiplication
 #### :: _What we type_ ::
@@ -76,6 +77,7 @@ Notice the __*__ symbol for multiplication
 ```
 35
 ```
+***
 #### 4. Division
 Notice the __/__ symbol for multiplication
 #### :: _What we type_ ::
@@ -86,6 +88,7 @@ Notice the __/__ symbol for multiplication
 ```
 1.4
 ```
+***
 #### 5. Exponent
 Notice the __**__ symbol for multiplication
 #### :: _What we type_ ::
@@ -96,7 +99,7 @@ Notice the __**__ symbol for multiplication
 ```
 16807
 ```
-
+***
 #### 6. Brackets
 Using ( ) to change order of operation
 #### :: _What we type_ ::
@@ -115,15 +118,17 @@ Using ( ) to change order of operation
 ```
 63
 ```
+***
+
 #### BONUS:
 #### 7. Modulo
 Modulo gives the reminder of division. It's symbol is **%**
 
 For eg.,
-4 % 3 = 1
-5 % 3 = 2
-6 % 3 = 0
-7 % 3 = 1
+- 4 % 3 = 1
+- 5 % 3 = 2
+- 6 % 3 = 0
+- 7 % 3 = 1
 
 and so on..
 
